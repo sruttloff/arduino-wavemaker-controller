@@ -36,4 +36,4 @@ Hier ein Foto wo man den Draht anlötet:
 ![Timing Diagramm](https://github.com/sruttloff/arduino-wavemaker-controller/blob/master/jebao-board.jpg?raw=true)
 
 Markierung 1 zeigt, wo die Brücke auf der Vorderseite der Platine zu entfernen ist. Statt der Brücke einen Schalter zwischen setzen.
-An - kommt dann der Minus von der Schaltung und an + der Ausgang von der Schaltung.
+An den - kommt dann der Minus von der Schaltung und an + der Ausgang von der Schaltung.
