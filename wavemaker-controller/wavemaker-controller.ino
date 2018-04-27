@@ -13,9 +13,9 @@ extern HardwareSerial Serial;
 int pump1 = 3; // the PWM pin the right pump is attached to
 int pump2 = 4; // the PWM pin the left pump is attached to
 int pump1Min = 45;
-int pump1Max = 225;
+int pump1Max = 255;
 int pump2Min = 45;
-int pump2Max = 225;
+int pump2Max = 235;
 int pump1Current = 0, pump2Current = 0;
 int t1 = 30; // time in secs. to stay at level min
 int t2 = 30; // time in secs. to stay at max
