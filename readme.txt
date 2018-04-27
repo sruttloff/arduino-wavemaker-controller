@@ -12,9 +12,9 @@ Zur Umsetzung benötigt wird:
 
 Hier der Schaltplan:
 
-![Schaltplan](https://github.com/kenpratt/pumpkin/blob/master/circuit-breadboard_Schaltplan.png?raw=true)
+![Schaltplan](https://github.com/sruttloff/arduino-wavemaker-controller/blob/master/circuit-breadboard_Schaltplan.png?raw=true)
 
 Hier der Aufbau auf einer Steckplatine (Breadboard):
 
-![Schaltplan](https://github.com/kenpratt/pumpkin/blob/master/circuit-breadboard_Steckplatine.png?raw=true)
+![Schaltplan](https://github.com/sruttloff/arduino-wavemaker-controller/blob/master/circuit-breadboard_Steckplatine.png?raw=true)
 
